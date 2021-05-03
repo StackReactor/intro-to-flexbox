@@ -37,3 +37,7 @@ h3 {
 .item-doble {
   flex: 2;
 }
+
+.achange {
+  display: block;
+}
